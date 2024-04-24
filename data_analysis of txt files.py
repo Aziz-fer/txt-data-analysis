@@ -120,6 +120,7 @@ def plot_section_of_time(file_name, system, time_interval):
 
 
 # Example of calls usages:
-plot_section_of_time("data/data_octal.txt", 8, [0, 1000])
+defaultExecute()
 #executeWithOptions(True,250,'red')
-#defaultExecute()
+#plot_section_of_time("data/data_octal.txt", 8, [0, 1000])
+
